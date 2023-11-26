@@ -9,25 +9,25 @@ Step 2: Insert the data into the tables
 
 Step 3: Write the SQL queries
 
-Total Revenue by Product Category.
+1.Total Revenue by Product Category.
 
-Total Revenue by Product Category and Region.
+2.Total Revenue by Product Category and Region.
 
-Average Order Value by Product Category.
+3.Average Order Value by Product Category.
 
-Daily Sales Trend.
+4.Daily Sales Trend.
 
-Profit by Products.
+5.Profit by Products.
 
-Profit by Product Sub-Categories.
+6.Profit by Product Sub-Categories.
 
-Total Customers.
+7.Total Customers.
 
-Product Sub-category Sales Contribution.
+8.Product Sub-category Sales Contribution.
 
-Products with Highest Profit.
+9.Products with Highest Profit.
 
-Territory-wise Sales.
+10.Territory-wise Sales.
 
 SQL Link: https://drive.google.com/file/d/1P9YAPi5_FQf95evR2FbANrcenA3SpBQm/view?usp=sharing
 
